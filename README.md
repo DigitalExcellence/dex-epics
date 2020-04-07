@@ -1,2 +1,2 @@
 # DeX-Epics
-Roadmap for Digital Excellence
+Roadmap for the Digital Excellence platform
